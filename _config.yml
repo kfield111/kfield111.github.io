@@ -1,11 +1,11 @@
 # Site settings
 author: Kelin Field
-title: 
+title: My First Blog
 header-img: img/home-bg.png
 email: kfield111@hotmail.com
 copyright_name: Kelin Field
 description: > # this means to ignore newlines until "baseurl:"
-  
+  First Mile Blog
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  kfield111
